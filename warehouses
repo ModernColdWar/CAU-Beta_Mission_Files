@@ -45284,7 +45284,7 @@ warehouses =
             ["suppliers"] = 
             {
             }, -- end of ["suppliers"]
-            ["coalition"] = "NEUTRAL",
+            ["coalition"] = "RED",
             ["jet_fuel"] = 
             {
                 ["InitFuel"] = 100,
@@ -95089,7 +95089,7 @@ warehouses =
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
         }, -- end of [2461]
-        [441] = 
+        [2829] = 
         {
             ["gasoline"] = 
             {
@@ -95111,7 +95111,7 @@ warehouses =
             ["suppliers"] = 
             {
             }, -- end of ["suppliers"]
-            ["coalition"] = "red",
+            ["coalition"] = "blue",
             ["jet_fuel"] = 
             {
                 ["InitFuel"] = 100,
@@ -95126,7 +95126,7 @@ warehouses =
             }, -- end of ["weapons"]
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
-        }, -- end of [441]
+        }, -- end of [2829]
         [2462] = 
         {
             ["gasoline"] = 
@@ -97056,7 +97056,7 @@ warehouses =
                         [3] = 7,
                         [4] = 136,
                     }, -- end of ["wsType"]
-                    ["initialAmount"] = 100,
+                    ["initialAmount"] = 0,
                 }, -- end of [169]
                 [170] = 
                 {
@@ -97804,7 +97804,7 @@ warehouses =
                         [3] = 8,
                         [4] = 283,
                     }, -- end of ["wsType"]
-                    ["initialAmount"] = 100,
+                    ["initialAmount"] = 101,
                 }, -- end of [237]
                 [238] = 
                 {
@@ -101560,7 +101560,7 @@ warehouses =
                         [3] = 7,
                         [4] = 13,
                     }, -- end of ["wsType"]
-                    ["initialAmount"] = 100,
+                    ["initialAmount"] = 0,
                 }, -- end of [167]
                 [168] = 
                 {
@@ -101615,7 +101615,7 @@ warehouses =
                         [3] = 7,
                         [4] = 16,
                     }, -- end of ["wsType"]
-                    ["initialAmount"] = 100,
+                    ["initialAmount"] = 0,
                 }, -- end of [172]
                 [173] = 
                 {
@@ -108781,6 +108781,44 @@ warehouses =
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
         }, -- end of [2459]
+        [441] = 
+        {
+            ["gasoline"] = 
+            {
+                ["InitFuel"] = 100,
+            }, -- end of ["gasoline"]
+            ["unlimitedMunitions"] = true,
+            ["methanol_mixture"] = 
+            {
+                ["InitFuel"] = 100,
+            }, -- end of ["methanol_mixture"]
+            ["OperatingLevel_Air"] = 10,
+            ["diesel"] = 
+            {
+                ["InitFuel"] = 100,
+            }, -- end of ["diesel"]
+            ["speed"] = 16.666666,
+            ["size"] = 100,
+            ["periodicity"] = 30,
+            ["suppliers"] = 
+            {
+            }, -- end of ["suppliers"]
+            ["coalition"] = "red",
+            ["jet_fuel"] = 
+            {
+                ["InitFuel"] = 100,
+            }, -- end of ["jet_fuel"]
+            ["OperatingLevel_Eqp"] = 10,
+            ["unlimitedFuel"] = true,
+            ["aircrafts"] = 
+            {
+            }, -- end of ["aircrafts"]
+            ["weapons"] = 
+            {
+            }, -- end of ["weapons"]
+            ["OperatingLevel_Fuel"] = 10,
+            ["unlimitedAircrafts"] = true,
+        }, -- end of [441]
         [2460] = 
         {
             ["gasoline"] = 
@@ -108819,6 +108857,44 @@ warehouses =
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
         }, -- end of [2460]
+        [2768] = 
+        {
+            ["gasoline"] = 
+            {
+                ["InitFuel"] = 100,
+            }, -- end of ["gasoline"]
+            ["unlimitedMunitions"] = true,
+            ["methanol_mixture"] = 
+            {
+                ["InitFuel"] = 100,
+            }, -- end of ["methanol_mixture"]
+            ["OperatingLevel_Air"] = 10,
+            ["diesel"] = 
+            {
+                ["InitFuel"] = 100,
+            }, -- end of ["diesel"]
+            ["speed"] = 16.666666,
+            ["size"] = 100,
+            ["periodicity"] = 30,
+            ["suppliers"] = 
+            {
+            }, -- end of ["suppliers"]
+            ["coalition"] = "red",
+            ["jet_fuel"] = 
+            {
+                ["InitFuel"] = 100,
+            }, -- end of ["jet_fuel"]
+            ["OperatingLevel_Eqp"] = 10,
+            ["unlimitedFuel"] = true,
+            ["aircrafts"] = 
+            {
+            }, -- end of ["aircrafts"]
+            ["weapons"] = 
+            {
+            }, -- end of ["weapons"]
+            ["OperatingLevel_Fuel"] = 10,
+            ["unlimitedAircrafts"] = true,
+        }, -- end of [2768]
         [440] = 
         {
             ["gasoline"] = 
