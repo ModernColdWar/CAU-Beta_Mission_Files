@@ -541,7 +541,7 @@ ctld.unitActions = {
     ["SA342M"] = {crates=false, troops=false, internal=false},
 	["Ka-50"] = {crates=true, troops=false, internal=false},
  	["UH-1H"] = {crates=true, troops=true, internal=true},
-	--["Mi-8MT"] = {crates=true, troops=true, internal=true},
+	["Mi-8MT"] = {crates=true, troops=true, internal=true},
 	["C-101CC"] = {crates=true, troops=true, internal=true},
 
 }
